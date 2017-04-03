@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Villa Montalvo</string>
+		<key>details</key>
+		<string>Villa Montalvo, Saratoga, California</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>rating</key>
+		<integer>5</integer>
+		<key>imageName</key>
+		<string>wedding1</string>
+		<key>thumbnailName</key>
+		<string>wedding1_thumb</string>
+		<key>longitude</key>
+		<real>-122.0326592</real>
+		<key>latitude</key>
+		<real>37.2398521</real>
+	</dict>
+	<dict>
+		<key>thumbnailName</key>
+		<string>wedding2_thumb</string>
+		<key>name</key>
+		<string>Five Wounds Church</string>
+		<key>details</key>
+		<string>Five Wounds Catholic Church, San Jose, California</string>
+		<key>priceGuide</key>
+		<integer>1</integer>
+		<key>rating</key>
+		<integer>3</integer>
+		<key>imageName</key>
+		<string>wedding2</string>
+		<key>longitude</key>
+		<real>-121.8662174</real>
+		<key>latitude</key>
+		<real>37.3496351</real>
+	</dict>
+	<dict>
+		<key>thumbnailName</key>
+		<string>wedding3_thumb</string>
+		<key>name</key>
+		<string>Fairmont Hotel</string>
+		<key>details</key>
+		<string>Fairmont Hotel, San Jose, California</string>
+		<key>priceGuide</key>
+		<integer>3</integer>
+		<key>rating</key>
+		<integer>4</integer>
+		<key>imageName</key>
+		<string>wedding3</string>
+		<key>longitude</key>
+		<real>-121.8913847</real>
+		<key>latitude</key>
+		<real>37.3329742</real>
+	</dict>
+	<dict>
+		<key>thumbnailName</key>
+		<string>wedding4_thumb</string>
+		<key>name</key>
+		<string>Marriott Hotel</string>
+		<key>details</key>
+		<string>The Marriott Hotel, Santa Clara, California</string>
+		<key>priceGuide</key>
+		<integer>1</integer>
+		<key>rating</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>wedding4</string>
+		<key>longitude</key>
+		<real>-121.9764559</real>
+		<key>latitude</key>
+		<real>37.390675</real>
+	</dict>
+	<dict>
+		<key>thumbnailName</key>
+		<string>wedding5_thumb</string>
+		<key>name</key>
+		<string>Monterey Bay</string>
+		<key>details</key>
+		<string>Monterey Bay, California</string>
+		<key>priceGuide</key>
+		<integer>2</integer>
+		<key>rating</key>
+		<integer>5</integer>
+		<key>imageName</key>
+		<string>wedding5</string>
+		<key>longitude</key>
+		<real>-121.9039806</real>
+		<key>latitude</key>
+		<real>36.6182683</real>
+	</dict>
+	<dict>
+		<key>thumbnailName</key>
+		<string>wedding6_thumb</string>
+		<key>name</key>
+		<string>Oceano Hotel</string>
+		<key>details</key>
+		<string>Oceano Hotel, Half Moon Bay, California</string>
+		<key>priceGuide</key>
+		<integer>3</integer>
+		<key>rating</key>
+		<integer>2</integer>
+		<key>imageName</key>
+		<string>wedding6</string>
+		<key>longitude</key>
+		<real>-122.4846687</real>
+		<key>latitude</key>
+		<real>37.5039101</real>
+	</dict>
+</array>
+</plist>
